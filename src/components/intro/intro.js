@@ -9,7 +9,7 @@ const Intro = () =>{
                     <h2 className="intro-intro">
                         Hello, my name is
                     </h2>
-                    <h2 className="intro-name">Hash</h2>
+                    <h1 className="intro-name">Hash</h1>
                     <div className="intro-title">
                         <div className="intro-title-wrapper">
                             <div className="intro-title-item">Solidity Developer</div>
