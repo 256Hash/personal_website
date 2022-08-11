@@ -1,0 +1,73 @@
+:root{
+    --accent: #EB6534
+}
+
+
+.c{
+    height: 50vh;
+    position: relative;
+}
+
+.c-bg{
+    width: 20px;
+    height: 100%;
+    position: absolute;
+    background-color: var(--accent);
+}
+
+.c-wrapper{
+    padding: 50px;
+    display:flex;
+}
+
+.c-left{
+    flex: 1;
+}
+
+.c-title{
+    font-size: 60px;
+    width: 80%;
+    margin-bottom: 10%;
+}
+
+.c-info{
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.c-info-item{
+    display:flex;
+    align-items: center;
+    width: 100px;
+}
+
+.c-info-link{
+    color: none;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration:none; 
+    cursor:pointer;  
+}
+
+.c-right{
+    flex: 1;
+    position: relative;
+}
+
+.c-right-desc{
+    font-size: 30px;
+}
+
+.c-right-img{
+    width: 15%;
+    right: 25%;
+    top: 50%;
+    position: absolute;
+}
