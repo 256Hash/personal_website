@@ -12,7 +12,7 @@
 }
 
 .about-left{
-    flex: 0.7;
+    flex: 0.9;
     display:flex;
     height: 100%;
     align-items: center;
@@ -35,7 +35,7 @@
 }
 
 .about-card{
-    width: 60%;
+    width: 50%;
   
     position: relative;
     overflow: hidden;
@@ -61,7 +61,7 @@
 }
 
 .about-desc{
-    width: 60%;
+    width: 65%;
     font-size: 20px;
 }
 
@@ -74,11 +74,30 @@
 
 .about-award{
     display:flex;
-    width: 50%;
+    width: 70%;
 }
+
+.hackathons{
+    justify-content: space-between;
+}
+
+.communities{
+    justify-content: space-around;
+}
+
 .about-award-img{
-    width: 45%;
+
+    height:100px;
+    margin-right: 50%;
     border-radius: 5%;
+}
+
+.about-award-img:hover{
+    opacity: 0.7;
+}
+
+.buildspace{
+    border: 2px solid grey; 
 }
 
 .about-award-desc{
@@ -88,3 +107,4 @@
 .about-award-desc-title{
     font-weight: bold;
 }
+

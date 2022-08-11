@@ -20,6 +20,7 @@ const Product = ({image, image2, link}) =>{
             <div className="p-circle"></div>
             <div className="p-circle"></div>
             <div className="p-circle"></div>
+           
 
         </div>
         <a href={link} target="_blank" className="p-link">

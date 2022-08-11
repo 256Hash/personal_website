@@ -7,7 +7,7 @@ const ProductList = () =>{
     return(
         <div className="pl">
             <div className="pl-texts">
-                <h1 className="pl-title">Create & Inspire</h1>
+                <h1 className="pl-title">Create & Inspire 🚀</h1>
                 <p className="pl-desc">
                     Below are a few of my personal projects. My projects range from a defi tracker to a newsletter service to a chat application.
                 </p>

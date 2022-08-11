@@ -18,11 +18,13 @@
 .p-img{
   width: 100%;
 }
+
 .p-circle {
   width: 6px;
   height: 6px;
   border-radius: 50%;
   margin: 3px;
+  
   background-color: white;
 }
 
