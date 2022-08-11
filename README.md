@@ -1,9 +1,9 @@
 # Personal Website
 
-## This is my personal website! Here, you can find out more
-about me, as well as what I am currently up to!
+## This is my personal website! 
+Here, you can find out more about me, as well as what I am currently up to!
 
- <img width="1910" alt="Screen Shot 2022-08-10 at 11 54 49 PM" src="https://user-images.githubusercontent.com/102403069/184079493-7ddbbf9f-d0db-409d-a8e3-6831649272fa.png">
+<img width="2209" alt="Screen Shot 2022-08-10 at 11 56 37 PM" src="https://user-images.githubusercontent.com/102403069/184079727-7ef69da3-aebf-4067-b666-07717020220f.png">
 
 <img width="1908" alt="Screen Shot 2022-08-10 at 11 55 21 PM" src="https://user-images.githubusercontent.com/102403069/184079554-aab93f59-c74e-4d0e-a580-1cf878f6bc76.png">
 
