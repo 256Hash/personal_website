@@ -25,12 +25,8 @@ const Intro = () =>{
                             <div className="intro-title-item">Web3 Developer</div>
                             <div className="intro-title-item">FullStack Developer</div>
                         </div>
-                    </div>
-                    <div className="intro-desc"> I contribute to open-source web3 projects, compete in hackathons, and am constantly learning! </div>
-
-                    
-                    <div className="intro-skills-wrapper">
-                    <div className="intro-skills-desc"><b>Languages 👨‍🎨</b></div>
+                        <div className="intro-skills-wrapper">
+                    <div className="intro-skills-desc intro-skills-title-desc"><b>Languages 👨‍🎨</b></div>
 
                     <div className="intro-skills">
                       <img src={Solidity} className="intro-img"></img>
@@ -38,7 +34,7 @@ const Intro = () =>{
                       <img src={Python} className="intro-img"></img>
 
                     </div>
-                    <div className="intro-skills-desc"><b>Frameworks/Tools 🛠</b></div>
+                    <div className="intro-skills-desc intro-skills-title-desc"><b>Frameworks/Tools 🛠</b></div>
 
                     <div className="intro-skills">
                       <img src={React} className="intro-img"></img>
@@ -49,7 +45,8 @@ const Intro = () =>{
 
                     </div>
                     </div>
-                
+                    </div>
+                    <div className="intro-desc"> I contribute to open-source web3 projects, compete in hackathons, and am constantly learning! </div>
    
                 </div>
       
